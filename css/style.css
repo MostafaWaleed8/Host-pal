@@ -84,6 +84,11 @@ pre i {
 .fa-copy {
   cursor: pointer;
 }
+input {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
 
 .hidden {
   visibility: hidden;
